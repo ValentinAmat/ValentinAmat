@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there! I am <a href="linkedin.com/in/valentinamat">Valentin</a> 👋</h1>
+<h1 align="center">Hi there! I am <a href="https://www.linkedin.com/in/valentinamat">Valentin</a> 👋</h1>
 </div>
 <img src="https://github.com/ValentinAmat/ValentinAmat/blob/main/linkedin-wallpaper.jpg">
 <!--
